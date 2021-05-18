@@ -1,2 +1,2 @@
 Hello, Welcome to Git Hub tutorial.
-In next class we lear git pull, add,commit,update.
+In next class we learn git pull, add,commit,update.
