@@ -1,2 +1,2 @@
 Hello, Welcome to Git Hub tutorial.
-Hi, welcome to java selenium tutorial.
+In next class we lear git pull, add,commit,update.
